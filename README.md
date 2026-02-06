@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Dandiest! 👋
 
-<!--
-**dandiest/dandiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Enthusiast & 🦀 Rust Adventurer
 
-Here are some ideas to get you started:
+I'm a young developer focused on building high-performance systems and clean code. My goal is to master the balance between the agility of **Python** and the raw power of **Rust**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Roadmap to Canada 🇨🇦
+- 🔭 **Currently working on:** Mastering Rust memory management and concurrency.
+- ⚙️ **Tech Stack:** Python, Rust, Git.
+- 🏔️ **The Goal:** Relocating to Canada to join the tech scene (and hit the slopes!).
+
+---
+
+## 🛠️ My Toolbox
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- **Interest:** 
+Low-level programming: Rust memory safety and performance.
+
+Automation: Python scripting for efficient workflows.
+
+Cloud Architecture: Scalable systems and backend development.
+
+Open Source: Contributing to the global developer community.
+
+Cybersecurity: Learning how to write safe and unexploitable code.
+
+Problem Solving.
+
+---
+
+## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandiest&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+- **LinkedIn:** []
+- **Discord:** [dandiest5]
+
+*"Safety is a feature, not a bug."* – (Me, every time I use Rust)
