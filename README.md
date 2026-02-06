@@ -17,7 +17,9 @@ I'm a young developer focused on building high-performance systems and clean cod
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 - **Interest:** 
 
-Low-level programming: 
+Problem Solving.
+
+Low-level programming.
 
 Rust memory safety and performance.
 
@@ -28,8 +30,6 @@ Cloud Architecture: Scalable systems and backend development.
 Open Source: Contributing to the global developer community.
 
 Cybersecurity: Learning how to write safe and unexploitable code.
-
-Problem Solving.
 
 ---
 
