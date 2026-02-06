@@ -1,4 +1,4 @@
-# Hi there, I'm Dandiest! 👋
+# Hi there, I'm dandiest! 👋
 
 ### 🐍 Python Enthusiast & 🦀 Rust Adventurer
 
