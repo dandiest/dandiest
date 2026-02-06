@@ -9,14 +9,17 @@ I'm a young developer focused on building high-performance systems and clean cod
 ## 🚀 My Roadmap to Canada 🇨🇦
 - 🔭 **Currently working on:** Mastering Rust memory management and concurrency.
 - ⚙️ **Tech Stack:** Python, Rust, Git.
-- 🏔️ **The Goal:** Relocating to Canada to join the tech scene (and hit the slopes!).
+- 🏔️ **The Goal:** Relocating to Canada at 18 to join the tech scene.
 
 ---
 
 ## 🛠️ My Toolbox
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 - **Interest:** 
-Low-level programming: Rust memory safety and performance.
+
+Low-level programming: 
+
+Rust memory safety and performance.
 
 Automation: Python scripting for efficient workflows.
 
