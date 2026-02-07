@@ -39,7 +39,7 @@ Cybersecurity: Learning how to write safe and unexploitable code.
 ---
 
 ## 📫 Connect with me
-- ![LinkedIn](https://www.linkedin.com/in/samuel-de-vivo-2a46493ab/)
+- **LinkedIn:** [https://www.linkedin.com/in/samuel-de-vivo-2a46493ab/]
 - **Discord:** [dandiest5]
 
 *"Safety is a feature, not a bug."* – (Me, every time I use Rust)
